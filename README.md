@@ -1,3 +1,5 @@
+MEDIUM LINK - "https://medium.com/@diggs.titus/ci-cd-pipeline-project-using-jenkins-maven-docker-github-webhooks-on-aws-amazon-web-services-4821e8eb6c09"
+
 # kubernetes-configmap-reload
 
 Pre-requisites:
